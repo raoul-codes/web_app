@@ -3,12 +3,6 @@
 
 Web Application development
 
-Raoul Nzoda Fongang : 580888
-
- 
-
-
-
 
 My Website:     Web Application.
 Contents:
